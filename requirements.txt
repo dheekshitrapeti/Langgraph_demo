@@ -1,0 +1,4 @@
+langgraph==0.2.55
+langchain-google-genai
+python-dotenv
+PyMuPDF
